@@ -1,0 +1,2 @@
+# kafkaserver
+embedded  kafka server
